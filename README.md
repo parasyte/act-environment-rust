@@ -1,4 +1,4 @@
-# `act-environment-rust`
+# `act-environment-rust` :rocket: :crab:
 
 A base image for running [Rust](https://www.rust-lang.org/) projects in [`act`](https://github.com/nektos/act).
 
